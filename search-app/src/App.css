@@ -1,0 +1,30 @@
+.app {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  padding: 10px;
+  width: 400px;
+}
+
+.list {
+  width: 400px;
+  height: 200px;
+  background-color: #f3f3f3;
+  overflow: hidden;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.diplay-data {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item {
+  padding: 5px;
+}
