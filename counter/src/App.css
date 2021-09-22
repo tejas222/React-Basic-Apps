@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.all {
+  font-size: 22px;
+  width: 180px;
+
+  margin: 20px 5px;
+}
+
+button {
+  font-size: 22px;
+  width: 80px;
+}
+
+p {
+  font-size: 22px;
+}
+span {
+  padding: 0 10px;
+}
